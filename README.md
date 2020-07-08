@@ -20,3 +20,13 @@ To change the version number in package.json, on the command line, in the packag
 ```bash
 npm version <update_type>
 ```
+
+## Notes on semantic versioning
+
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+- MAJOR version when you make incompatible API changes,
+- MINOR version when you add functionality in a backwards compatible manner, and
+- PATCH version when you make backwards compatible bug fixes.
+
+https://semver.org/
