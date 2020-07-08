@@ -5,6 +5,12 @@ Notes for publishing a node package to NPM.
 
 https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages
 
+See:
+
+https://github.com/wlwl2/case-utils/blob/master/package.json
+
+For an example of what the package.json should look like.
+
 ## Update an existing published public package
 
 https://docs.npmjs.com/updating-your-published-package-version-number
