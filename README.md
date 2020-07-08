@@ -21,7 +21,7 @@ To change the version number in package.json, on the command line, in the packag
 npm version <update_type>
 ```
 
-## Notes on semantic versioning
+### Notes on semantic versioning
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
