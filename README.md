@@ -1,11 +1,11 @@
 # publishing-to-npm
 Notes for publishing a node package to NPM.
 
-## Add new packages to the NPM registry
+## Add a new package to the NPM registry
 
 https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages
 
-## Update existing published public packages
+## Update an existing published public package
 
 https://docs.npmjs.com/updating-your-published-package-version-number
 
